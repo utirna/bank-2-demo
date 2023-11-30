@@ -1,0 +1,28 @@
+
+
+.listingArrow ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.listingArrow li:before{
+    /* content: 'f061' */
+}
+
+
+
+
+.nav__list li {
+    background-color: rgb(13,110,253);
+    transition: 200ms all ease-in-out;
+    border-left: 5px solid #0488c7;
+    font-weight: 500;
+    padding: 0.25rem;
+    width: 100%;
+}
+
+.nav__list li:hover {
+  background-color: rgb(255, 193, 7) !important;
+  cursor: pointer;
+}
