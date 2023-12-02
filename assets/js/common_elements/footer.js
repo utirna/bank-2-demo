@@ -83,8 +83,8 @@ $(function () {
           <div class="bg-warning py-3">
             <div class="d-flex flex-column flex-md-row justify-content-md-between gap-3 align-items-center col-11 mx-auto">
               <div class="text-center text-md-start">
-                © 2023 PDCC Bank. All rights reserved / Designed & hosted by
-                <span class="text-white-hover">ESDS Software Solution Ltd</span> .
+                © 2023 PDCC Bank. All rights reserved. Designed by
+                <span class="fw-semibold">Uttirna Services LLP.</span> .
               </div>
               <div class="d-flex flex-column flex-sm-row align-items-center gap-3">
                 <a>POLICIES</a>
