@@ -62,7 +62,7 @@ $(function () {
     <nav class="navbar navbar-expand-lg bg-warning py-0">
       <div class="container-fluid col-10 px-0">
         <a class="" href="index.html" style="height: 70px">
-          <img class="w-100 h-100" src="assets/images/pdcc-bank-logo.jpg" alt="" />
+          <img class="w-100 h-100" src="assets/images/bank-logo.png" alt="" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="text-secondary fw-bold">Menu</span>

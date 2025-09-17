@@ -1,10 +1,10 @@
 $(function () {
-  const footerHtml = `
+    const footerHtml = `
     <div class="footer-container">
           <div class="row col-10 mx-auto mb-2 g-4">
-            <!-- PDCC profile page -->
+            <!-- Demo profile page -->
             <div class="col-12 col-lg-6 border-md-end">
-              <h3>PDCC <span class="text-warning">PROFILE</span></h3>
+              <h3>Demo <span class="text-warning">PROFILE</span></h3>
               <p style="text-align: justify">in furtherance to the development of the co-operative movement in the district, the need for establishment of separate machinery for the distribution of finance in the rural areas was felt vigorously & hence the district central co-op,banks came into existence as a Central Finance Agency to meet the financial requirement of the various co-operative in the district.</p>
               <p style="text-align: justify">The co-operative societies act gave birth to many co-operative institutions ,hence the Pune District Central Co-operative Bank came into existence on 4th SEPT.1917 with the vigorous efforts taken by late Shri.N.C.Kelkar.</p>
               <a class="text-decoration-none fw-bold" href="">Read More...</a>
@@ -20,7 +20,7 @@ $(function () {
                 </li>
                 <li>
                   <i class="fa-solid fa-desktop text-primary"></i>
-                  <a class="text-decoration-none text-reset" href="">www.pdccbank.co.in</a>
+                  <a class="text-decoration-none text-reset" href="">www.demobank.co.in</a>
                 </li>
               </ul>
               <div>
@@ -83,7 +83,7 @@ $(function () {
           <div class="bg-warning py-3">
             <div class="d-flex flex-column flex-md-row justify-content-md-between gap-3 align-items-center col-11 mx-auto">
               <div class="text-center text-md-start">
-                © 2023 PDCC Bank. All rights reserved. Designed by
+                © 2023 Demo Bank. All rights reserved. Designed by
                 <span class="fw-semibold">Uttirna Services LLP.</span> .
               </div>
               <div class="d-flex flex-column flex-sm-row align-items-center gap-3">
@@ -97,5 +97,5 @@ $(function () {
         </div>
     `;
 
-  $('footer').html(footerHtml);
+    $('footer').html(footerHtml);
 });
